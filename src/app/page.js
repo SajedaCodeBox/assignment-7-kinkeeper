@@ -1,11 +1,13 @@
+import Bannar from "@/components/Bannar";
 import Image from "next/image";
 
 export default function Home() {
   return (
-    <div >
-     {/* <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        
-     </main> */}
+    <div className="bg-gray-100 min-h-screen">
+     
+     <main className="container mx-auto w-11/12 text-center ">
+        <Bannar></Bannar>
+     </main>
      </div>
   );
 }
