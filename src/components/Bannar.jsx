@@ -2,7 +2,7 @@ import React from 'react';
 
 const Bannar = () => {
     return (
-          <div>
+          <div className='text-center'>
          <div className='space-y-3 mt-20'>
             <h1 className='font-bold text-4xl'>Friends to keep close in your life</h1>
             <p className='text-[#64748B]'>Your personal shelf of meaningful connections. Browse, tend, and nurture the <br></br>
