@@ -4,7 +4,7 @@
   const Cards = ({cards}) => {
     const {name, picture, days_since_contact, tags, status} = cards
     return (
-        <div className="card bg-base-100  shadow-sm ">
+        <div className="card bg-base-100  shadow-sm mb-10">
   <figure className=" pt-10">
     <Image 
     src={picture}
