@@ -1,9 +1,11 @@
   import Image from 'next/image';
+import Link from 'next/link';
   import React from 'react';
 
   const Cards = ({cards}) => {
-    const {name, picture, days_since_contact, tags, status} = cards
+    const {id, name, picture, days_since_contact, tags, status} = cards
     return (
+      <Link href={`/carddetails/${cards.id}`}>
         <div className="card bg-base-100  shadow-sm mb-10">
   <figure className=" pt-10">
     <Image 
@@ -34,6 +36,7 @@
     </div>
     </div>
     </div>
+    </Link>
     );
     };
 

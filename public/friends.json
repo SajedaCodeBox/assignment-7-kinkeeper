@@ -9,7 +9,7 @@
     "tags": ["COLLEGE", "Work"],
     "bio": "Met during university. We enjoy playing football and discussing technology.",
     "goal": 14,
-    "next_due_date": "2026-10-23"
+    "next_due_date": "23-10-2026"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "tags": ["UNIVERSITY", "CODING"],
     "bio": "A university friend who loves reading books and exploring new places.",
     "goal": 14,
-    "next_due_date": "2026-10-31"
+    "next_due_date": "31-10-2026"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "tags": ["SCHOOL", "FRIEND"],
     "bio": "My school friend. We often talk about our memories and future plans.",
     "goal": 14,
-    "next_due_date": "2026-10-28"
+    "next_due_date": "28-10-2026"
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "tags": ["COLLEGE", "CLOSE FRIEND"],
     "bio": "We became friends in college and always support each other.",
     "goal": 21,
-    "next_due_date": "2026-10-23"
+    "next_due_date": "23-10-2026"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "tags": ["UNIVERSITY", "CODING"],
     "bio": "A coding partner from university. We share programming tips and project ideas.",
     "goal": 14,
-    "next_due_date": "2026-11-05"
+    "next_due_date": "05-11-2026"
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "tags": ["CHILDHOOD", "BEST FRIEND"],
     "bio": "My childhood friend. We love sharing stories and catching up over coffee.",
     "goal": 14,
-    "next_due_date": "2026-10-29"
+    "next_due_date": "29-10-2026"
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "tags": ["SCHOOL", "FOOTBALL"],
     "bio": "A school friend and football enthusiast. We used to play together every weekend.",
     "goal": 14,
-    "next_due_date": "2026-10-11"
+    "next_due_date": "11-10-2026"
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "tags": ["UNIVERSITY", "TRAVEL"],
     "bio": "A university friend who enjoys traveling, photography, and discovering new cafes.",
     "goal": 21,
-    "next_due_date": "2026-11-10"
+    "next_due_date": "10-11-2026"
   },
   {
   "id": 9,
@@ -105,7 +105,7 @@
   "tags": ["UNIVERSITY", "CLOSE FRIEND"],
   "bio": "A university friend who enjoys playing cricket and discussing new technology.",
   "goal": 14,
-  "next_due_date": "2026-10-25"
+  "next_due_date": "25-10-2026"
 },
 {
   "id": 10,
@@ -117,6 +117,6 @@
   "tags": ["COLLEGE", "TRAVEL"],
   "bio": "A college friend who loves traveling, photography, and spending time with friends.",
   "goal": 14,
-  "next_due_date": "2026-11-01"
+  "next_due_date": "01-11-2026"
 }
 ]
